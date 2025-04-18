@@ -19,4 +19,4 @@ It's primary purpose is to generate three seperate pieces of a sentence, and for
 ## Usage
 1. Open the program in your preferred code editor (e.g., Visual Studio Code).
 
-2. Run the program using Node.js: node **TITLE NOT READY YET**
+2. Run the program using Node in the command line: node main.js
